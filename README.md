@@ -2,7 +2,7 @@
 FOSSdroid.org is a Wiki created by the team over at [r/FOSSdroid](https://www.reddit.com/r/fossdroid) on Reddit. The goal of this project is to have a centralized list of FOSS Android projects and apps, as well as guides for how to install, troubleshoot, and maintain such tools! Once this Wiki is fully functional, we may create a Forum for FOSSdroid.org as well, which would run on FOSS forum software and would serve as an alternative to the subreddit.
 
 # Contributing
-Please read CONTRIBUTING.md for information on how to contribute.
+Please read CONTRIBUTING.md for information on how to contribute. In your first PR, please make sure to add yourself to the Contributors list below!
 
 # Maintainers
 Below is a list of project maintainers
