@@ -1,0 +1,6 @@
+[book]
+authors = ["KatieTheDev"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FOSSdroid.org"
