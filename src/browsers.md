@@ -18,8 +18,8 @@ Browsers generally fall within three categories: Gecko-based, Blink-based, and W
 |-|-|-|
 |[Chromium](https://www.chromium.org)|[APK](https://chromium.woolyss.com/#android)|Unofficial builds linked; Google does not offer official Chromium build|
 |[Cromite](https://www.cromite.org/)|[APK](https://github.com/uazo/cromite#releases); [F-Droid repo](https://www.cromite.org/fdroid/repo/?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B)|Chromium-based with additional privacy features. Forked from Bromite|
-|[Brave](https://brave.com/)|[Google Play](https://play.google.com/store/apps/details?id=com.brave.browser); [APK](https://github.com/brave/brave-browser/releases)|Chromium based with additional privacy features. Contains Web 3 and crypto-related features, which can be disabled|
-|[Vanadium](https://vanadium.app/)| **Recommended** Not available|"Hardened variant of Chromium providing enhanced privacy and security". Exclusive to GrapheneOS.|
+|[Brave](https://brave.com/)|[Google Play](https://play.google.com/store/apps/details?id=com.brave.browser); [APK](https://github.com/brave/brave-browser/releases)|Chromium based with additional privacy features. *Contains Web 3 and crypto-related features, which can be disabled*|
+|[Vanadium](https://vanadium.app/) **Recommended**|Not available|"Hardened variant of Chromium providing enhanced privacy and security". Exclusive to GrapheneOS.|
 
 ## WebView-based
 
