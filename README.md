@@ -7,7 +7,7 @@ Please read CONTRIBUTING.md for information on how to contribute. In your first 
 # Maintainers
 Below is a list of project maintainers
 
-- KatieTheDev (u/KatieTSO, u/KatieTheDev)
+- [KatieTheDev](https://github.com/KatieTheDev)
 
 # Contributors
 Below is a list of non-maintainer contributors:
