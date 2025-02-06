@@ -12,7 +12,7 @@ Below is a list of project maintainers
 # Contributors
 Below is a list of non-maintainer contributors:
 
-- (@ninjasmosa)[https://github.com/ninjasmosa]
+- [@ninjasmosa](https://github.com/ninjasmosa)
 
 To be placed on this list, please add yourself with the same pull request as your first contribution. 
 
