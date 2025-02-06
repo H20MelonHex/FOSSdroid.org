@@ -12,7 +12,9 @@ Below is a list of project maintainers
 # Contributors
 Below is a list of non-maintainer contributors:
 
- - There are not currently any non-maintainer contributors. To be placed on this list, please add yourself with the same pull request as your first contribution.
+- @ninjasmosa
+
+To be placed on this list, please add yourself with the same pull request as your first contribution. 
 
 # Copyright
 This project is maintained under the Mozilla Public License 2.0. This means you may use any content or code we have created, royalty-free. However, we reserve all trademark rights. If you have any additional questions, please refer to the LICENSE file, or create an Issue. All contributions are subject to the terms of the LICENSE.
