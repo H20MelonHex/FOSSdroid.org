@@ -2,6 +2,8 @@
 
 [Introduction](README.md)
 
+[What is FOSS?](./what-is-foss.md)
+
 [Operating Systems (ROMs)](./operating-systems.md)
 
 # App Replacements
