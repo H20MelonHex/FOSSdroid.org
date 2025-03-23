@@ -13,6 +13,7 @@ Below is a list of project maintainers
 Below is a list of non-maintainer contributors:
 
 - [@ninjasmosa](https://github.com/ninjasmosa)
+- [@ysfchn](https://github.com/ysfchn)
 
 To be placed on this list, please add yourself with the same pull request as your first contribution. 
 
