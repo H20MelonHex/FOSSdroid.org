@@ -13,7 +13,7 @@ They must not:
 - GPLv2
 - Apache 2.0
 - Mozilla MPL
-- And many more
+- And many more  
 *The above section needs work, and should be updated to include more FOSS licenses.*
 
 \*\*A proprietary EULA:
