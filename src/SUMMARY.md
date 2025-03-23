@@ -7,4 +7,4 @@
 # App Replacements
 - [Web Browsers](./browsers.md)
 - [Voice Assistants](./voice-assistants.md)
-- [Social Media](./voice-assistants.md)
+- [Social Media](./social-media.md)
