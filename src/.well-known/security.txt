@@ -3,4 +3,3 @@ Expires: 2026-03-30T03:35:00.000Z
 Encryption: https://katiethe.dev/KatieTheDev_0x6D281D03_public.asc
 Preferred-Languages: en
 Canonical: https://fossdroid.org/.well-known/security.txt
-Canonical: https://fossdroid.org/security.txt
