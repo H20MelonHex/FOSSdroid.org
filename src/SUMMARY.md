@@ -7,9 +7,9 @@
 [Operating Systems (ROMs)](./operating-systems.md)
 
 # App Replacements
-- [Web Browsers](./browsers.md)
-- [Voice Assistants](./voice-assistants.md)
-- [Social Media](./social-media.md)
+- [Web Browsers](./replacements/browsers.md)
+- [Voice Assistants](./replacements/voice-assistants.md)
+- [Social Media](./replacements/social-media.md)
 
 # r/FOSSdroid
 - [Posting Guidelines](./reddit/posting-guidelines.md)
