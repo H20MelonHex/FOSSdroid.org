@@ -10,3 +10,6 @@
 - [Web Browsers](./browsers.md)
 - [Voice Assistants](./voice-assistants.md)
 - [Social Media](./social-media.md)
+
+# r/FOSSdroid
+- [Posting Guidelines](./reddit/posting-guidelines.md)
