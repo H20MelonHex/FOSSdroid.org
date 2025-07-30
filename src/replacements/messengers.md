@@ -3,7 +3,7 @@
 ```markdown
 | App Name | E2EE Default | Encryption Protocol | Metadata Collected | FOSS Client | FOSS Server | Jurisdiction | Contact Discovery | Notes | Last Updated |
 |----------|--------------|---------------------|--------------------|-------------|-------------|--------------|-------------------|-------|--------------|
-| Signal | Yes | Signal Protocol | Phone number (at signup) [1] | Yes [2] | No [3] | USA [4] | Phone number | Focus on privacy.  | 2025-07-30 |
+| Signal | Yes | Signal Protocol | Phone number (at signup) [1] | Yes [2] | No [3] | USA [4] | Phone number | Focus on privacy  | 2025-07-30 |
 | Matrix (Element) | Yes | OMEMO [5] | IP address, usage data [6] | Yes [7] | Yes [8] | UK [9] | Username/Email | Federated. | 2025-07-30 |
 | Telegram | No (Secret Chats) | MTProto | IP address, contacts, usage data [10] | Yes [11] | No | UAE [12] | Phone number | Cloud-based. | 2025-07-30 |
 | WhatsApp | Yes | Signal Protocol | Phone number, contacts, usage data, IP address [13] | No | No | USA [14] | Phone number | Owned by Meta. | 2025-07-30 |
