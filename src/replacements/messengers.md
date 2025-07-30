@@ -24,5 +24,5 @@
 *   [11] [Telegram Android Client](https://github.com/DrKLO/Telegram): Accessed 2025-07-30.
 *   [12] [Telegram Location](https://www.reuters.com/technology/telegram-says-it-has-moved-some-equipment-data-dubai-2022-12-15/): Accessed 2025-07-30.
 *   [13] [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy): Accessed 2025-07-30.
-*   [14] [WhatsApp Location](https://www.whatsapp.com/about/): Accessed 2025-07-30.
+*   [14] [WhatsApp Location](https://www.whatsapp.com/about/): Accessed 2025-07-30
 ```
