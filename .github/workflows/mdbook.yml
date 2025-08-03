@@ -58,3 +58,22 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+name: Update GitHub Profile Page
+on: [push]
+
+jobs:
+  gadpp_job:
+    runs-on: ubuntu-latest
+    name: Update GitHub Profile Page
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v5
+        id: gadpp
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github-username: 'H20MelonHex'
+          user-email: 'h20melonhex@gmail.com'
